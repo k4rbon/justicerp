@@ -1,5 +1,7 @@
 StopResource('NeedRP.eu')
 
+
+local BlackList = {}
 local JusticeRP = false
 
 AddEventHandler('onResourceStop', function(resource)
