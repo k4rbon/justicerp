@@ -6,7 +6,7 @@ local JusticeRP = false
 
 AddEventHandler('onResourceStop', function(resource)
 	if resource == GetCurrentResourceName() then
-		if GetResourceState('NeedRP.eu') == 'stopped' then
+		if GetResourceState('justicerp') == 'stopped' then
 			StartResource('JusticeRP')
 		end
 	end
