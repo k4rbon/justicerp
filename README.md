@@ -1,10 +1,3 @@
 # justicerp
 
-
-JusticeRP.pl serwer rolePlay WL OFF 
-
-
-https://discord.gg/rEpfEzaBKH
-
-Owner: Menago
-Menagment: Karbon
+https://discord.gg/ps3S9hxFqg
